@@ -1,2 +1,3 @@
 # Binge
-A movie watchlist like none 
+A movie watchlist like none other
+
